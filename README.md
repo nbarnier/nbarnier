@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Nick
+- 👀 I’m interested in tech, business, and running
+- 🌱 I’m currently learning html, CSS and Javascript
+- 📫 Message me to connect!
